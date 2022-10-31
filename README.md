@@ -8,6 +8,10 @@ No dependencies.
 
 * [Sutil Template for Full App, by Dave Dawkins](https://github.com/davedawkins/sutil-template-app)
 
+## Templates
+
+* [Sutil-Template, by Jill1](https://github.com/Jlll1/Sutil-Template)
+
 ## Video Tutorials
 
 ### Jill1 : Real World F# Web App - Brisk
