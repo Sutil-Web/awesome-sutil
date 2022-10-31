@@ -20,6 +20,10 @@ No dependencies.
 
 * [SutilComponent](https://github.com/Sutil-Web/SutilComponent) - Fable plugin to automatically bind Sutil observables in functions decorated with `SutilComponent`
 
+## Articles
+
+* [Writing an Appwrite Web App in F#, by Dave Dawkins](https://github.com/davedawkins/doodletoy#readme)
+
 ## Video Tutorials
 
 ### Jill1 : Real World F# Web App - Brisk
