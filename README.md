@@ -4,6 +4,10 @@ Sutil is lightweight front-end framework for F# / Fable.
 Inspired by Svelte.  
 No dependencies.  
 
+## Sample Apps
+
+* [Sutil Template for Full App, by Dave Dawkins](https://github.com/davedawkins/sutil-template-app)
+
 ## Video Tutorials
 
 ### Jill1 : Real World F# Web App - Brisk
