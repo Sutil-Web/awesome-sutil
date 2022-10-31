@@ -9,6 +9,7 @@ No dependencies.
 * [Sutil Template for Full App, by Dave Dawkins](https://github.com/davedawkins/sutil-template-app)
 * [sutil-template-react, by Dave Dawkins](https://github.com/davedawkins/sutil-template-react) - How to host React (and other frameworks) inside a Sutil app
 * [sutil-template-chromex, by Dave Dawkins](https://github.com/davedawkins/sutil-template-chromex) - Creating a Chrome Extension in F# Using Sutil
+* [sutil-template-tailwind, by Dave Dawkins](https://github.com/davedawkins/sutil-template-tailwind) - Sutil Template for Tailwind
 
 ## Templates
 
