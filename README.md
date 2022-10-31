@@ -7,6 +7,7 @@ No dependencies.
 ## Sample Apps
 
 * [Sutil Template for Full App, by Dave Dawkins](https://github.com/davedawkins/sutil-template-app)
+* [sutil-template-react, by Dave Dawkins](https://github.com/davedawkins/sutil-template-react) - How to host React (and other frameworks) inside a Sutil app
 
 ## Templates
 
