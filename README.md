@@ -16,6 +16,10 @@ No dependencies.
 
 * [Sutil-Template, by Jill1](https://github.com/Jlll1/Sutil-Template)
 
+## Infrastructure
+
+* [SutilComponent](https://github.com/Sutil-Web/SutilComponent) - Fable plugin to automatically bind Sutil observables in functions decorated with `SutilComponent`
+
 ## Video Tutorials
 
 ### Jill1 : Real World F# Web App - Brisk
