@@ -11,6 +11,7 @@ No dependencies.
 * [sutil-template-chromex, by Dave Dawkins](https://github.com/davedawkins/sutil-template-chromex) - Creating a Chrome Extension in F# Using Sutil
 * [sutil-template-tailwind, by Dave Dawkins](https://github.com/davedawkins/sutil-template-tailwind) - Sutil Template for Tailwind
 * [aspect-ratio, by NoseCone](https://github.com/NoseCone/aspect-ratio)
+* [SubtleConduit, by kaeedo](https://github.com/kaeedo/SubtleConduit) - Recreating a Real World app, called Conduit, using Sutil
 
 ## Templates
 
