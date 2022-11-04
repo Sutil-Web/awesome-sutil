@@ -10,6 +10,10 @@ No dependencies.
 * [Sutil Template for Elmish](https://github.com/davedawkins/sutil-template-elmish), by Dave Dawkins
 * [Sutil Template for Full App](https://github.com/davedawkins/sutil-template-app), by Dave Dawkins
 
+## Learning
+
+* [Sutil REPL](https://sutil.dev/repl/), by Dave Dawkins
+
 ## Sample Apps
 
 * [sutil-template-react](https://github.com/davedawkins/sutil-template-react) - How to host React (and other frameworks) inside a Sutil app, by Dave Dawkins
