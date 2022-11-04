@@ -13,6 +13,8 @@ No dependencies.
 ## Learning
 
 * [Sutil REPL](https://sutil.dev/repl/), by Dave Dawkins
+* [Documentation](https://sutil.dev/#documentation-about-sutil)
+* [Code Examples](https://sutil.dev/#examples-hello-world)
 
 ## Sample Apps
 
