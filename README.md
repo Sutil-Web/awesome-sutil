@@ -19,6 +19,7 @@ No dependencies.
 ## Articles
 
 * [Using Sutil to develop a real world application](https://hashset.dev/article/16_using_sutil_to_develop_a_real_world_application), by Kai Ito
+* [Serene Sitting with Sutil](https://elm.finde-ich-super.de/2021.html#serene-sitting-with-sutil), by Martin Grotz
 
 ## Sample Apps
 
