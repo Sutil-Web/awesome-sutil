@@ -27,6 +27,7 @@ No dependencies.
 * [sutil-template-tailwind](https://github.com/davedawkins/sutil-template-tailwind) - Sutil Template for Tailwind, by Dave Dawkins
 * [aspect-ratio](https://github.com/NoseCone/aspect-ratio), by NoseCone
 * [SubtleConduit](https://github.com/kaeedo/SubtleConduit) - Recreating a Real World app, called Conduit, using Sutil - by kaeedo
+* [spooktober-2021 game](https://github.com/AngelMunoz/spooktober-2021), by Angel Munoz
 
 ## Templates
 
