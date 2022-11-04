@@ -20,6 +20,7 @@ No dependencies.
 
 * [Using Sutil to develop a real world application](https://hashset.dev/article/16_using_sutil_to_develop_a_real_world_application), by Kai Ito
 * [Serene Sitting with Sutil](https://elm.finde-ich-super.de/2021.html#serene-sitting-with-sutil), by Martin Grotz
+* [Writing an Appwrite Web App in F#, by Dave Dawkins](https://github.com/davedawkins/doodletoy#readme)
 
 ## Sample Apps
 
@@ -38,10 +39,6 @@ No dependencies.
 ## Infrastructure
 
 * [SutilComponent](https://github.com/Sutil-Web/SutilComponent) - Fable plugin to automatically bind Sutil observables in functions decorated with `SutilComponent`
-
-## Articles
-
-* [Writing an Appwrite Web App in F#, by Dave Dawkins](https://github.com/davedawkins/doodletoy#readme)
 
 ## Video Tutorials
 
