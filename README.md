@@ -16,6 +16,7 @@ No dependencies.
 ## Templates
 
 * [Sutil-Template, by Jill1](https://github.com/Jlll1/Sutil-Template)
+* [Fable.Sutil.Templates, by Angel Munoz](https://github.com/AngelMunoz/Fable.Sutil.Templates)
 
 ## Infrastructure
 
