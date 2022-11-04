@@ -16,6 +16,10 @@ No dependencies.
 * [Documentation](https://sutil.dev/#documentation-about-sutil)
 * [Code Examples](https://sutil.dev/#examples-hello-world)
 
+## Articles
+
+* [Using Sutil to develop a real world application](https://hashset.dev/article/16_using_sutil_to_develop_a_real_world_application), by Kai Ito
+
 ## Sample Apps
 
 * [sutil-template-react](https://github.com/davedawkins/sutil-template-react) - How to host React (and other frameworks) inside a Sutil app, by Dave Dawkins
