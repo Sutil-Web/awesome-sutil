@@ -4,19 +4,24 @@ Sutil is lightweight front-end framework for F# / Fable.
 Inspired by Svelte.  
 No dependencies.  
 
+## Starter Projects
+
+* [Sutil Template for Hello World](https://github.com/davedawkins/sutil-template-helloworld), by Dave Dawkins
+* [Sutil Template for Elmish](https://github.com/davedawkins/sutil-template-elmish), by Dave Dawkins
+* [Sutil Template for Full App](https://github.com/davedawkins/sutil-template-app), by Dave Dawkins
+
 ## Sample Apps
 
-* [Sutil Template for Full App, by Dave Dawkins](https://github.com/davedawkins/sutil-template-app)
-* [sutil-template-react, by Dave Dawkins](https://github.com/davedawkins/sutil-template-react) - How to host React (and other frameworks) inside a Sutil app
-* [sutil-template-chromex, by Dave Dawkins](https://github.com/davedawkins/sutil-template-chromex) - Creating a Chrome Extension in F# Using Sutil
-* [sutil-template-tailwind, by Dave Dawkins](https://github.com/davedawkins/sutil-template-tailwind) - Sutil Template for Tailwind
-* [aspect-ratio, by NoseCone](https://github.com/NoseCone/aspect-ratio)
-* [SubtleConduit, by kaeedo](https://github.com/kaeedo/SubtleConduit) - Recreating a Real World app, called Conduit, using Sutil
+* [sutil-template-react](https://github.com/davedawkins/sutil-template-react) - How to host React (and other frameworks) inside a Sutil app, by Dave Dawkins
+* [sutil-template-chromex](https://github.com/davedawkins/sutil-template-chromex) - Creating a Chrome Extension in F# Using Sutil, by Dave Dawkins
+* [sutil-template-tailwind](https://github.com/davedawkins/sutil-template-tailwind) - Sutil Template for Tailwind, by Dave Dawkins
+* [aspect-ratio](https://github.com/NoseCone/aspect-ratio), by NoseCone
+* [SubtleConduit](https://github.com/kaeedo/SubtleConduit) - Recreating a Real World app, called Conduit, using Sutil - by kaeedo
 
 ## Templates
 
-* [Sutil-Template, by Jill1](https://github.com/Jlll1/Sutil-Template)
-* [Fable.Sutil.Templates, by Angel Munoz](https://github.com/AngelMunoz/Fable.Sutil.Templates)
+* [Sutil-Template](https://github.com/Jlll1/Sutil-Template), by Jill1
+* [Fable.Sutil.Templates](https://github.com/AngelMunoz/Fable.Sutil.Templates), by Angel Munoz
 
 ## Infrastructure
 
