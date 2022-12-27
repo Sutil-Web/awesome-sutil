@@ -25,7 +25,7 @@ No dependencies.
 
 ## Sample Apps
 
-* [Oxide](https://github.com/davedawkins/sutil-oxide) - A toolkit for building IDE-style web applications
+* [Oxide](https://github.com/davedawkins/sutil-oxide) - A toolkit for building IDE-style web applications, by Dave Dawkins
 * [sutil-template-react](https://github.com/davedawkins/sutil-template-react) - How to host React (and other frameworks) inside a Sutil app, by Dave Dawkins
 * [sutil-template-chromex](https://github.com/davedawkins/sutil-template-chromex) - Creating a Chrome Extension in F# Using Sutil, by Dave Dawkins
 * [sutil-template-tailwind](https://github.com/davedawkins/sutil-template-tailwind) - Sutil Template for Tailwind, by Dave Dawkins
