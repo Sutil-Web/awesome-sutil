@@ -44,6 +44,10 @@ No dependencies.
 * [SutilComponent](https://github.com/Sutil-Web/SutilComponent) - Fable plugin to automatically bind Sutil observables in functions decorated with `SutilComponent`
 * [Sutil.Generator](https://sutil-shoelace.web.app/) - project that aims to bring the goodness of [Web Components](https://developer.mozilla.org/en-US/docs/Web/Web_Components) to F# thanks to Sutil
 
+## Components
+
+* [Sutil.Toastr](https://github.com/davedawkins/Sutil.Toastr) - A Sutil port of Elmish.Toastr
+
 ## Video Tutorials
 
 ### Jill1 : Real World F# Web App - Brisk
