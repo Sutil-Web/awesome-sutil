@@ -22,6 +22,7 @@ No dependencies.
 * [Serene Sitting with Sutil](https://elm.finde-ich-super.de/2021.html#serene-sitting-with-sutil), by Martin Grotz
 * [Writing an Appwrite Web App in F#, by Dave Dawkins](https://github.com/davedawkins/doodletoy#readme)
 * [Dependency Trees With Fable and Sutil](https://queil.net/2021/12/dependency-trees-with-fable-and-sutil/)
+* [Exploring the F# Frontend Landscape](https://blog.tunaxor.me/blog/2022-05-23-exploring-the-fsharp-frontend-landscape.html), by Angel Munoz
 
 ## Sample Apps
 
